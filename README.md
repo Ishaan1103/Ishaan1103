@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface-improvement-illustration_277904-4428.jpg?w=2000)
+![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)
 <h1 align="center">Hi 👋, I'm Ishaan Rana</h1>
 <h3 align="center">A passionate frontend developer from India and Learning new things is my passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
