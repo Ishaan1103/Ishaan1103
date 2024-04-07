@@ -1,6 +1,6 @@
 ![MasterHead](https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png)
 <h1 align="center">Hi 👋, I'm Ishaan Rana</h1>
-<h3 align="center">A passionate frontend developer from India and Learning new things is my passion.</h3>
+<h3 align="center">A passionate web-developer from India. Building something new is my passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan1103&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan1103" /> </p>
